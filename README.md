@@ -13,7 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white&labelColor=00878F&color=00878F)
 
 *Contact*
-<a href="mailto:werkm1214@hanyang.ac.kr">
+<a href="https://www.linkedin.com/in/donghee-kim-fresh/">
   ![Static Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=0A66C2&color=0A66C2)
 
 
