@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Kim%20Donghee&&color=92A4D2&animation=twinkling&fontColor=486186&fontSize=45)
 
-### I studying in [Kairos](https://kg-kairos.kr/program) and [Ewha graduate school](https://gsds.ewha.ac.kr/gsds/academic/subject.do)
+### A student in [Kairos](https://kg-kairos.kr/program) and [Ewha graduate school](https://gsds.ewha.ac.kr/gsds/academic/subject.do)
 1. Python
 2. Arduino
 3. Deep Learning
